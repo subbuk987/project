@@ -1,0 +1,10 @@
+flask==2.0.1
+flask-cors==3.0.10
+opencv-python==4.7.0.72
+numpy==1.24.3
+ultralytics==8.0.196
+streamlit==1.22.0
+plotly==5.14.1
+pandas==1.5.3
+pillow==9.5.0
+requests==2.31.0 
